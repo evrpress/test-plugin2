@@ -35,7 +35,7 @@ jobs:
       - name: 🤞 Install dependencies
         run: |
           npm install
-          #composer install --no-dev
+          composer install --no-dev
 
       #      - name: 📚 Convert Readme.md to WordPress Readme
       #        uses: everpress-co/action-md2wp@main

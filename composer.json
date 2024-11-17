@@ -1,0 +1,11 @@
+{
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/evrpress/wp-updater.git"
+		}
+	],
+	"require": {
+		"evrpress/wp-updater": "^0.1.0"
+	}
+}

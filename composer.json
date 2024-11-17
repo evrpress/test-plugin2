@@ -6,7 +6,6 @@
 		}
 	],
 	"require": {
-		"evrpress/wp-updater": "^0.1.0",
-		"php": "^7.4"
+		"evrpress/wp-updater": "^0.1.0"
 	}
 }
